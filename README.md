@@ -1,5 +1,5 @@
 # Investigating the influencing factors of urban heat island effects: a case study of central China in 2015.
-### [Video-Bilibili](https://www.bilibili.com/) | [Online-PPT](https://www.mdpi.com/journal/ijgi)
+### [Video-Bilibili](https://www.bilibili.com/) | [Online-PPT](【金山文档】 (可能完成了)期中汇报https://kdocs.cn/l/ckfap6Clp1VI)
 <br/>
 
 >Investigating the influencing factors of urban heat island effects: a case study of central China in 2015.  
