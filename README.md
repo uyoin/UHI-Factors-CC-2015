@@ -13,9 +13,9 @@ Discussions are welcomed in the [discussion panel](https://github.com/uyoin/UHI-
 **Factors(Independent variable)**
 ![Factors](pic/Factors.png)
 **Geodector_Factor_Detector**
-![Geodector_Factor_Detector](pic/Factor Detector.png)
+![Geodector_Factor_Detector](pic/FactorDetector.png)
 **Geodector_Interaction_Detector**
-![Geodector_Factor_Detector](pic/Interaction Detector.png)
+![Geodector_Factor_Detector](pic/InteractionDetector.png)
 ## Installation
 ```
 **Pip:**
