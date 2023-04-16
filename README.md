@@ -1,5 +1,5 @@
 # Investigating the influencing factors of urban heat island effects: a case study of central China in 2015.
-### [Video-Bilibili](https://www.bilibili.com/) | [Online-PPT](【金山文档】 (可能完成了)期中汇报https://kdocs.cn/l/ckfap6Clp1VI)
+### [Video-Bilibili](https://www.bilibili.com/) | [Online-PPT](https://kdocs.cn/l/ckfap6Clp1VI)
 <br/>
 
 >Investigating the influencing factors of urban heat island effects: a case study of central China in 2015.  
@@ -17,7 +17,6 @@ Discussions are welcomed in the [discussion panel](https://github.com/uyoin/UHI-
 **Geodector_Interaction_Detector**
 ![Geodector_Factor_Detector](pic/InteractionDetector.png)
 ## Installation
-```
 **Pip:**
 ``` bash
 pip install -r requirements.txt
